@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🧧About Me:
 💡I am currently working on personal projects as I continue to learn more on JavaScript, ReactJS and ThreeJS.<br>🤝 I am actively looking for an internship or a junior developer role.
 
 
