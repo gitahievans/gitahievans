@@ -1,7 +1,7 @@
-# 💫 About Me:
-💡I am currently working on personal projects as I continue to learn more on JavaScript, ReactJS and ThreeJS.<br>🤝 I am actively looking for an internship or a junior developer role.
-
-
+# 🧭 About Me:
+💡I have been learning to code for the last 8 months after switching careers. I joined a six months bootcamp after which I have been learning further on myself.
+💻I am currently working on personal projects as I continue to learn more on JavaScript, ReactJS and ThreeJS.
+🔍I am actively look for an internship or a junior developer role. 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/evans-gitahi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/gitahi_evans) 
 
