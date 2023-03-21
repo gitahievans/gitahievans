@@ -1,6 +1,7 @@
-![junior-developer](https://user-images.githubusercontent.com/106302681/226622175-de4e27c0-e324-4e16-8d33-c5586d4dc84c.jpg)
-
 # 🧭 About Me:
+
+![photo_2023-03-18_12-22-50](https://user-images.githubusercontent.com/106302681/226624749-34a0a4e1-2930-474a-82a8-ceb6c0727b50.jpg)
+
 💡I have been learning to code for the last 8 months after switching careers. I joined a six months bootcamp after which I have been learning further on myself.
 
 💻I am currently working on personal projects as I continue to learn more on JavaScript, ReactJS and ThreeJS.
