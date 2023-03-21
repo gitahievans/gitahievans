@@ -4,6 +4,9 @@
 💻I am currently working on personal projects as I continue to learn more on JavaScript, ReactJS and ThreeJS.
 
 🔍I am actively look for an internship or a junior developer role. 
+
+https://user-images.githubusercontent.com/106302681/226616005-64351e97-3c35-440e-9774-f6e7b1e7d37d.mp4
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/evans-gitahi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/gitahi_evans) 
 
