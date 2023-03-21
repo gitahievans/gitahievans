@@ -5,7 +5,7 @@
 
 🔍I am actively look for an internship or a junior developer role. 
 
-![photo_2023-03-18_12-22-50](https://user-images.githubusercontent.com/106302681/226624749-34a0a4e1-2930-474a-82a8-ceb6c0727b50.jpg)|align=left
+![photo_2023-03-18_12-22-50](https://user-images.githubusercontent.com/106302681/226624749-34a0a4e1-2930-474a-82a8-ceb6c0727b50.jpg){align-left}
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/evans-gitahi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/gitahi_evans) 
