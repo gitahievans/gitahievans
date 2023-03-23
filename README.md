@@ -1,7 +1,7 @@
 # 🧭 About Me:
-<img src='https://user-images.githubusercontent.com/106302681/226624749-34a0a4e1-2930-474a-82a8-ceb6c0727b50.jpg' height='300' align='right'/>
+<img src='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3c00f6105775659.5f84899401909.gif' height='300' align='right'/>
 💡<p align='left' >I have been learning to code for the last 10 months after switching careers. I joined a six months bootcamp after which I have been learning further on myself.</p>
-💻<p align='left'>I am currently working on personal projects as I continue to learn more on JavaScript, ReactJS and ThreeJS.</p>
+💻<p align='left'>I am currently contributing to projects and also working on personal ones as I continue to learn more on JavaScript and ReactJS</p>
 🔍<p align='left'>I am actively look for an internship or a junior developer role.</p>
 <br/><br/><br/>
 
