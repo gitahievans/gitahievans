@@ -1,8 +1,9 @@
 # 🧭 About Me:
 <img src='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3c00f6105775659.5f84899401909.gif' height='300' align='right'/>
-💡<p align='left' >I have been learning to code for the last 10 months after switching careers. I joined a six months bootcamp after which I have been learning further on myself.</p>
-💻<p align='left'>I am currently contributing to projects and also working on personal ones as I continue to learn more on JavaScript and ReactJS</p>
-🔍<p align='left'>I am actively look for an internship or a junior developer role.</p>
+<p>What I am currently doing:</p>
+<p align='left' >💡Learning JavaScript, Typescript and React.js to better my front-end development skills</p>
+<p align='left'>💻 Contributing to projects and also working on personal ones.</p>
+<p align='left'>🔍 Actively look for an internship or a junior developer role.</p>
 <br/><br/><br/>
 
 ## 🌐 Socials:
