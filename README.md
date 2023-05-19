@@ -1,10 +1,7 @@
 # 🧭 About Me:
-<img src='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3c00f6105775659.5f84899401909.gif' height='300' align='right'/>
 <p>What I am currently doing:</p>
-<p align='left' >💡Learning JavaScript, Typescript and React.js to better my front-end development skills</p>
-<p align='left'>💻 Contributing to projects and also working on personal ones.</p>
-<p align='left'>🔍 Actively look for an internship or a junior developer role.</p>
-<br/><br/><br/>
+<p>💡Learning JavaScript, Typescript and React.js to better my front-end development skills</p>
+<p>💻 Contributing to projects and also working on personal projects.</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/evans-gitahi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/gitahi_evans) 
