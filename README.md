@@ -1,6 +1,6 @@
 # 🧭 About Me:
 <p>What I am currently doing:</p>
-<p>💡Learning JavaScript, Typescript and React.js to better my front-end development skills</p>
+<p>💡Coding in JavaScript, Typescript and React.js to better my front-end development skills</p>
 <p>💻 Contributing to projects and also working on personal projects.</p>
 
 ## 🌐 Socials:
