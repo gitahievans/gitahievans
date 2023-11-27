@@ -1,7 +1,5 @@
 # 🧭 About Me:
-<p>What I am currently doing:</p>
-<p>💡Coding in JavaScript, Typescript and React.js to better my front-end development skills</p>
-<p>💻 Contributing to projects and also working on personal projects.</p>
+<p>💡A Front-end Dev working with JavaScript, Typescript, React.js and Next.js</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/evans-gitahi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/gitahi_evans) 
