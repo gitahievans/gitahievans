@@ -1,86 +1,110 @@
-# 👋 Hello, I'm Evans Gitahi
+<div align="center">
+  
+# 👋 Hello World, I'm Evans Gitahi!
 
-### 🚀 Full-Stack Developer | 🖌 UI/UX Enthusiast | 🛠 Problem Solver
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6EA5F7&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer;UI%2FUX+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
 
-I'm a passionate developer skilled in building high-performing, scalable web applications and crafting seamless user experiences. From dynamic front-end interfaces to robust back-end systems, I strive to create solutions that leave a lasting impact. When I’m not coding, you’ll find me exploring design trends or mentoring aspiring developers.
+<p align="center">
+  <a href="https://linkedin.com/in/evans-gitahi"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/gitahi_evans"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white"></a>
+  <a href="https://github.com/gitahievans"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white"></a>
+</p>
 
----
+</div>
 
-## 🌟 Skills & Expertise
+## 🚀 About Me
 
-### **Front-end Development**
-- **Languages & Libraries:** TypeScript, JavaScript, React.js, Next.js, React Native
-- **Styling:** Tailwind CSS, Web Animations
-- **Design Tools:** Figma
+> I'm a passionate developer skilled in building high-performing, scalable web applications and crafting seamless user experiences. From dynamic front-end interfaces to robust back-end systems, I strive to create solutions that leave a lasting impact.
 
-### **Back-end Development**
-- **Technologies:** Python, Django, PostgreSQL
-- **APIs:** RESTful APIs, Data Modeling
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-### **Other Skills**
-- Version Control: Git & GitHub
-- CI/CD Pipelines
-- Networking Basics
-- Documentation
+## 💻 Tech Arsenal
 
----
+```javascript
+const evans = {
+    frontEnd: ['TypeScript', 'JavaScript', 'React.js', 'Next.js', 'React Native'],
+    backEnd: ['Python', 'Django', 'PostgreSQL'],
+    design: ['Figma', 'Tailwind CSS', 'Web Animations'],
+    devOps: ['Git', 'GitHub', 'CI/CD Pipelines'],
+    currentlyWorking: 'MyMovies Africa™',
+    funFact: 'I love mentoring aspiring developers! 🎯'
+};
+```
 
-## 🏢 **Professional Experience**
-### **Front-end Developer** @ MyMovies Africa™ (Aug 2023 – Present)
-- Developed a cross-platform mobile app using React Native for YAKWETU's entertainment content.
-- Designed a seamless user interface for the YAKWETU super app using Figma.
-- Integrated Sentry and Vercel for performance tracking.
+## 🏆 Professional Journey
 
-### **Front-end Developer** @ JetBetKe (Sept 2023 – Jan 2024)
-- Built a responsive sports betting platform using React.js and TypeScript.
-- Optimized application performance with in-memory databases and third-party API integrations.
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3>MyMovies Africa™</h3>
+        <p>Front-end Developer (Aug 2023 – Present)</p>
+        <ul>
+          <li>🎬 Cross-platform YAKWETU mobile app</li>
+          <li>🎨 Super app UI/UX design</li>
+          <li>📊 Performance tracking integration</li>
+        </ul>
+      </td>
+      <td width="50%">
+        <h3>JetBetKe</h3>
+        <p>Front-end Developer (Sept 2023 – Jan 2024)</p>
+        <ul>
+          <li>🎮 Sports betting platform</li>
+          <li>⚡ Performance optimization</li>
+          <li>🔄 API integrations</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### **Full-Stack Developer** @ Rentershub (May 2023 – Aug 2023)
-- Created a house-renting platform with Next.js and Django.
-- Designed PostgreSQL-based data models and implemented client-side routing.
+## 🌟 Featured Projects
 
----
+<div align="center">
+  <a href="https://www.figma.com/design/HweHRGs4UvLsrskYeAvmE7/Yakwetu-Super-App">
+    <img src="https://img.shields.io/badge/YAKWETU-Super%20App%20Design-FF69B4?style=for-the-badge&logo=figma&logoColor=white"/>
+  </a>
+  <a href="https://github.com/gitahievans/sound-leaf-api">
+    <img src="https://img.shields.io/badge/Audiobooks-API-4EA94B?style=for-the-badge&logo=django&logoColor=white"/>
+  </a>
+  <a href="https://renters-hub-plus.vercel.app/">
+    <img src="https://img.shields.io/badge/Renters-Hub-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</div>
 
-## 🌐 **Projects**
-### 🟢 [YAKWETU Super App Design](https://www.figma.com/design/HweHRGs4UvLsrskYeAvmE7/Yakwetu-Super-App)
-- Designed a complete UI/UX system for the YAKWETU super app, enhancing the digital entertainment experience.
+## 🛠️ Skills & Tools
 
-### 🟢 [Audiobooks API](https://github.com/gitahievans/sound-leaf-api)
-- Developed a feature-rich API for an audiobooks web application powered by Django and PostgreSQL.
-
-### 🟢 [E-commerce Website API](https://github.com/gitahievans/urban-sprout-api)
-- Built a scalable e-commerce API with Paystack integration for seamless transactions.
-
-### 🟢 [Renters Hub](https://renters-hub-plus.vercel.app/)
-- Created a visually appealing house-renting platform using Next.js and Tailwind CSS.
-
----
-
-## 🛠 **Tech Stack**
+<div align="center">
+  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gitahievans&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gitahievans&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gitahievans&theme=tokyonight&row=1&column=6"/>
+</div>
+
 ---
 
-## 📈 **GitHub Stats**
-![Evans' GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitahievans&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gitahievans&layout=compact&theme=radical)
+<div align="center">
+  
+### 💬 Let's Connect and Build Something Amazing Together!
 
----
+<img src="https://komarev.com/ghpvc/?username=gitahievans&color=blue"/>
 
-## 🌐 **Find Me Online**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/evans-gitahi)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/gitahievans)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/gitahi_evans)
-
----
-
-💬 *"Let's build something amazing together!"*
+</div>
