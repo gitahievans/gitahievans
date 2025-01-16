@@ -39,7 +39,7 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React" />
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React.js" />
       <br>React.js
     </td>
     <td align="center" width="96">
