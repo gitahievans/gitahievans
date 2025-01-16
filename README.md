@@ -18,17 +18,64 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
+[Previous sections remain the same...]
+
 ## 💻 Tech Arsenal
 
-```javascript
-const Evans = {
-    frontEnd: ['TypeScript', 'JavaScript', 'React.js', 'Next.js', 'React Native'],
-    backEnd: ['Python', 'Django', 'PostgreSQL'],
-    design: ['Figma', 'Tailwind CSS', 'Web Animations'],
-    devOps: ['Git', 'GitHub', 'CI/CD Pipelines'],
-    funFact: 'I love music theory! 🎯'
-};
+<div align="center">
+
+| 🎨 Frontend Mastery | 🛠 Backend Prowess | 🔧 Development Tools |
+|:------------------:|:-----------------:|:-------------------:|
+| ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
+| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
+| ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) | ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=rest&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) |
+
+</div>
+
+<div align="center">
+
+### 🎯 Currently Focusing On
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React" />
+      <br>React.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" alt="Django" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="65" height="65" alt="Nginx" />
+      <br>Nginx
+    </td>
+  </tr>
+</table>
+
+### 📊 Weekly Development Breakdown
+
+```text
+TypeScript   █████████████░░░░░   65.52 % 
+Python       ████████░░░░░░░░░░   35.25 % 
+JavaScript   ████░░░░░░░░░░░░░░   15.10 % 
+CSS          ███░░░░░░░░░░░░░░░   12.25 % 
+Other        ██░░░░░░░░░░░░░░░░   08.88 % 
 ```
+
+</div>
+
+[Rest of the sections remain the same...]
 
 ## 🌟 Featured Projects
 
