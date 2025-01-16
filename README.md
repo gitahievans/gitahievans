@@ -31,33 +31,6 @@ const evans = {
 };
 ```
 
-## 🏆 Professional Journey
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3>MyMovies Africa™</h3>
-        <p>Front-end Developer (Aug 2023 – Present)</p>
-        <ul>
-          <li>🎬 Cross-platform YAKWETU mobile app</li>
-          <li>🎨 Super app UI/UX design</li>
-          <li>📊 Performance tracking integration</li>
-        </ul>
-      </td>
-      <td width="50%">
-        <h3>JetBetKe</h3>
-        <p>Front-end Developer (Sept 2023 – Jan 2024)</p>
-        <ul>
-          <li>🎮 Sports betting platform</li>
-          <li>⚡ Performance optimization</li>
-          <li>🔄 API integrations</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ## 🌟 Featured Projects
 
 <div align="center">
