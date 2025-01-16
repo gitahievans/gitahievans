@@ -21,13 +21,12 @@
 ## 💻 Tech Arsenal
 
 ```javascript
-const evans = {
+const Evans = {
     frontEnd: ['TypeScript', 'JavaScript', 'React.js', 'Next.js', 'React Native'],
     backEnd: ['Python', 'Django', 'PostgreSQL'],
     design: ['Figma', 'Tailwind CSS', 'Web Animations'],
     devOps: ['Git', 'GitHub', 'CI/CD Pipelines'],
-    currentlyWorking: 'MyMovies Africa™',
-    funFact: 'I love mentoring aspiring developers! 🎯'
+    funFact: 'I love music theory! 🎯'
 };
 ```
 
