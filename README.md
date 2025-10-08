@@ -14,8 +14,6 @@
 
 > I'm a passionate developer skilled in building high-performing, scalable web applications and crafting seamless user experiences. From dynamic front-end interfaces to robust back-end systems, I strive to create solutions that leave a lasting impact.
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
 ## 💻 Tech Arsenal
 
 <div align="center">
