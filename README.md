@@ -2,8 +2,6 @@
   
 # 👋 Hello World, I'm Evans Gitahi!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6EA5F7&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer;UI%2FUX+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
-
 <p align="center">
   <a href="https://linkedin.com/in/evans-gitahi"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/gitahi_evans"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white"></a>
