@@ -16,7 +16,7 @@
 
 ## 💻 Tech Arsenal
 
-<div align="center">
+<div>
 
 | 🎨 Frontend Mastery | 🛠 Backend Prowess | 🔧 Development Tools |
 |:------------------:|:-----------------:|:-------------------:|
