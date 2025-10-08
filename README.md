@@ -87,24 +87,6 @@ Development Practices
 
 ---
 
-## 🎓 Education
-
-**Software Engineering** · Moringa School  
-*May 2022 - Nov 2022 · Nairobi, Kenya*
-
-**BSc. Mechanical and Manufacturing Engineering** · Multimedia University of Kenya  
-*Sep 2016 - Dec 2021 · Nairobi, Kenya · Second Class (Upper Division)*
-
----
-
-<div align="center">
-
-## 📊 GitHub Activity
-
-![Evans's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitahievans&show_icons=true&theme=default&hide_border=true)
-
----
-
 ### 💬 Open to Opportunities
 
 *Let's build something amazing together!*
