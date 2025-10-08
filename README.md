@@ -6,7 +6,7 @@
 
 [![Email](https://img.shields.io/badge/Email-evanygk%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:evanygk@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-evans--gitahi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/evans-gitahi)
-[![Portfolio]([https://evans-gitahi-portfolio.vercel.app/](https://img.shields.io/badge/Portfolio-Visit)-00C7B7?style=flat-square&logo=safari&logoColor=white)]([https://your-portfolio.com](https://evans-gitahi-portfolio.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=flat-square&logo=safari&logoColor=white)](https://your-portfolio.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B254722739527-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+254722739527)
 
 </div>
